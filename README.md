@@ -1,6 +1,6 @@
 # Calories-Burnt-Prediction
 
-This project predicts that how much  Calories Burnt based on excercise duration ,heart rate, body temperature, height, weight, age, gender . Trained the model using Linear regression, Random Forest Regressor, XGBRegression to compare the accuracy.
+This project predicts that how much  Calories Burnt based on excercise duration ,heart rate, body temperature, height, weight, age, gender . Trained the model using Linear regression, Random Forest Regressor, XGBRegression to compare the accuracy.Used Pipeline to train models.
 
 ## dataset used
 
