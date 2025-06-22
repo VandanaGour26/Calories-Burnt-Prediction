@@ -10,7 +10,7 @@ This project predicts that how much  Calories Burnt based on excercise duration 
 
  ## Technologies Used
  
-    **Language:** Python and its Libraries
+ - **Language:** Python and its Libraries
 
  - **ML Model:** Linear Regression, Random Forest Regressor, XGBRegression 
 
