@@ -6,7 +6,8 @@ This project predicts that how much  Calories Burnt based on excercise duration 
 * execrise.csv - Input variable
 * Calories.csv - Target variable
 
-## Model Accuracy
-* Linear regression -
-* Random Forest Regressor -
-* XGB Regressor - 
+  ## Technologies Used
+- **Language:** Python and its Libraries
+- **ML Model:** Linear Regression, Random Forest Regressor, XGBRegression 
+- **Frontend:** Streamlit
+
